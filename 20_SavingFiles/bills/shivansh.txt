@@ -1,0 +1,6 @@
+Bill breakdown is:
+cake:                    ...$9.5
+cold drink:              ...$4.5
+ice cream:               ...$7.5
+tip:                     ...$5.00
+total:                   ...$26.50

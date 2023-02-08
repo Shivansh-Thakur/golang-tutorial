@@ -1,0 +1,6 @@
+Bill breakdown is:
+pasta:                   ...$10.5
+cold drink:              ...$7.5
+samosa:                  ...$5.6
+tip:                     ...$5.00
+total:                   ...$28.60
